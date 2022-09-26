@@ -1,4 +1,4 @@
-💻 ### Projeto
+### Projeto
 Projeto desenvolvido no curso Ignite da @rocketseat. Trata-se de um feed onde podemos comentar nas postagens e interagir com os comentários. 
 
 ### Desktop
@@ -19,10 +19,10 @@ Projeto desenvolvido no curso Ignite da @rocketseat. Trata-se de um feed onde po
 - deletar comentário
 
 ## Clonar o projeto
-- $ git clone https://github.com/michel-cm/REACT-TS-Controle-Financeiro.git
+- $ git clone https://github.com/michel-cm/IgniteFeed.git
 
 ## Instalar dependências
 - npm install
 
 ## Rodar Projeto
-- npm start
+- npm run dev
