@@ -1,5 +1,5 @@
 ### Projeto
-Projeto desenvolvido no curso Ignite da @rocketseat. Trata-se de um feed onde podemos comentar nas postagens e interagir com os comentários. 
+Projeto foi desenvolvido para o desafio do curso ignite da Rocketseat. Trata-se de um to to list, onde pode criar tarefas, marcar como concluídas e deletar.
 
 ### Desktop
 ![screencapture-ignitefeed-live-vercel-app-2022-09-26-18_04_33](https://user-images.githubusercontent.com/58608300/192380624-2637ab5f-7704-4fba-9b88-10d5ac9ee559.png)
@@ -11,15 +11,11 @@ Projeto desenvolvido no curso Ignite da @rocketseat. Trata-se de um feed onde po
 - ReactJs
 - css modules
 - TypeScript
-- Date-fns
 
 ### Funcionalidades
-- adicionar comentários
-- aplaudir (likes)
-- deletar comentário
-
-## Clonar o projeto
-- $ git clone https://github.com/michel-cm/IgniteFeed.git
+- adicionar tarefas
+- remover tarefas
+- marcar tarefas como concluidas
 
 ## Instalar dependências
 - npm install
